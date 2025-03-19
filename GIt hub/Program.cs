@@ -19,7 +19,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("Please enter a valid non-negative integer.");
+            Console.WriteLine("Try again!!.");
         }
     }
 }
